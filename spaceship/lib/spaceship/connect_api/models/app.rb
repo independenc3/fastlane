@@ -59,7 +59,7 @@ module Spaceship
 
       ESSENTIAL_INCLUDES = [
         "appStoreVersions",
-        "prices"
+        # "prices"
       ].join(",")
 
       def self.type
